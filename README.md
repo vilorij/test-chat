@@ -55,3 +55,4 @@ Possible TODO
 - Add top.sls for highstate
 - Pillar implementation
 - Fix working on machine with multiple public network interfaces
+- Understanding if `include` and `src` directory usefull in image with compiled app
